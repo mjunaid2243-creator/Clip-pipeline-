@@ -1,0 +1,6 @@
+{
+  "name": "ClipVault — Gaming Asset Pipeline & Remix Studio",
+  "description": "High-performance gaming asset vault for drag-and-drop ingest, instant client-side resolution and aspect ratio parsing, thumbnail generation, bulk tagging, cloud sync, and AI video remixing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
